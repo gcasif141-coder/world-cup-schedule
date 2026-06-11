@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: [REAL_DOMAIN_HERE]/sitemap.xml
+Sitemap: https://world-cup-schedule-jap.vercel.app/sitemap.xml
