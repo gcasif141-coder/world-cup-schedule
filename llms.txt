@@ -1,0 +1,38 @@
+# World Cup Schedule Japan
+
+> FIFAワールドカップ2026の全日程、開催都市、日本代表グループF試合スケジュール、日本からの視聴方法を網羅した完全ガイド。
+
+## About This Site
+
+World Cup Schedule Japan is a comprehensive Japanese-language guide to the FIFA World Cup 2026, hosted across the United States, Canada, and Mexico from June 11 to July 19, 2026. The site focuses on providing Japanese fans with all the information they need — match schedules in JST, viewing options, and Japan national team fixtures.
+
+## Japan National Team — Group F Fixtures
+
+Japan is in **Group F** alongside the Netherlands, Sweden, and Tunisia.
+
+- **Match 1**: Netherlands vs Japan — June 15, 2026, 5:00 AM JST — AT&T Stadium, Dallas, USA
+- **Match 2**: Tunisia vs Japan — June 21, 2026, 1:00 PM JST — Estadio BBVA, Monterrey, Mexico
+- **Match 3**: Japan vs Sweden — June 26, 2026, 8:00 AM JST — AT&T Stadium, Dallas, USA
+
+## Key Topics Covered
+
+- [FIFA World Cup 2026 Overview](https://world-cup-schedule-jap.vercel.app/#section-1): Tournament format, 48-team expansion, historical significance
+- [Match Schedule](https://world-cup-schedule-jap.vercel.app/#section-2): Full tournament dates (June 11 – July 19, 2026), group stage to final
+- [Host Cities & Venues](https://world-cup-schedule-jap.vercel.app/#section-3): 16 cities across USA (11), Canada (2), Mexico (3)
+- [Qualifying Nations](https://world-cup-schedule-jap.vercel.app/#section-4): Expanded 48-team format, continental qualification updates
+- [Japan's Road to 2026](https://world-cup-schedule-jap.vercel.app/#section-5): Asian qualifiers, key players (Kubo, Mitoma, Tomiyasu)
+- [Japan Group F Fixtures](https://world-cup-schedule-jap.vercel.app/#section-fixtures): All 3 group stage matches with JST times and venues
+- [How to Watch from Japan](https://world-cup-schedule-jap.vercel.app/#section-6): TV broadcasts, streaming services, viewing setup tips
+- [FAQ](https://world-cup-schedule-jap.vercel.app/#section-7): 7 frequently asked questions with answers
+
+## Site Information
+
+- **URL**: https://world-cup-schedule-jap.vercel.app/
+- **Language**: Japanese (ja)
+- **Publisher**: World Cup Schedule Japan
+- **Last Updated**: 2026-06-11
+
+## Optional
+
+- [Sitemap](https://world-cup-schedule-jap.vercel.app/sitemap.xml)
+- [Robots](https://world-cup-schedule-jap.vercel.app/robots.txt)
