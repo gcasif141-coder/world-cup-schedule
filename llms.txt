@@ -25,6 +25,7 @@ Japan is in **Group F** alongside the Netherlands, Sweden, and Tunisia.
 - [How to Watch from Japan](https://world-cup-schedule-jap.vercel.app/#section-6): TV broadcasts, streaming services, viewing setup tips
 - [FAQ](https://world-cup-schedule-jap.vercel.app/#section-7): 7 frequently asked questions with answers
 - [Mexico vs South Africa Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/mexico-vs-south-africa.html): Complete guide for the World Cup 2026 opening match, including kickoff schedules, lineups, head-to-head records, and expert predictions.
+- [Korea Republic vs Czechia Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/korea-republic-vs-czechia.html): Complete guide for the Korea Republic vs Czechia group stage match, featuring kickoff times, official lineups, predictions, and TV/streaming options.
 
 ## Site Information
 
