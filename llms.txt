@@ -26,13 +26,19 @@ Japan is in **Group F** alongside the Netherlands, Sweden, and Tunisia.
 - [FAQ](https://world-cup-schedule-jap.vercel.app/#section-7): 7 frequently asked questions with answers
 - [Mexico vs South Africa Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/mexico-vs-south-africa.html): Complete guide for the World Cup 2026 opening match, including kickoff schedules, lineups, head-to-head records, and expert predictions.
 - [Korea Republic vs Czechia Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/korea-republic-vs-czechia.html): Complete guide for the Korea Republic vs Czechia group stage match, featuring kickoff times, official lineups, predictions, and TV/streaming options.
+- [Canada vs Bosnia and Herzegovina Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/canada-vs-bosnia-and-herzegovina.html): June 12 Group B match guide with French and Bosnian keywords, SportsEvent schema, FAQ schema, kickoff conversions, and probable lineups.
+- [USA vs Paraguay Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/usa-vs-paraguay.html): June 12 Group D match guide with Spanish keywords, SportsEvent schema, FAQ schema, kickoff conversions, and probable lineups.
+- [Qatar vs Switzerland Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/qatar-vs-switzerland.html): June 13 Group B match guide with Arabic, German, French, and Italian keywords, SportsEvent schema, FAQ schema, kickoff conversions, and prediction.
+- [Brazil vs Morocco Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/brazil-vs-morocco.html): June 13 Group C match guide with Portuguese, Arabic, and French keywords, SportsEvent schema, FAQ schema, kickoff conversions, and prediction.
+- [Haiti vs Scotland Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/haiti-vs-scotland.html): June 13 Group C match guide with French, Haitian Creole, English, and Japanese keywords, SportsEvent schema, FAQ schema, kickoff conversions, and prediction.
+- [Australia vs Türkiye Match Time, Lineups & Prediction](https://world-cup-schedule-jap.vercel.app/australia-vs-turkiye.html): June 13 Group D match guide with Turkish keywords, SportsEvent schema, FAQ schema, kickoff conversions, and prediction.
 
 ## Site Information
 
 - **URL**: https://world-cup-schedule-jap.vercel.app/
 - **Language**: Japanese (ja)
 - **Publisher**: World Cup Schedule Japan
-- **Last Updated**: 2026-06-11
+- **Last Updated**: 2026-06-13
 
 ## Optional
 
